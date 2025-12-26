@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<video src='https://github.com/user-attachments/assets/5cc01165-f909-426c-8439-46cad1357181' width='20%' height='20%' loop='true'/>
+<video controls loop autoplay width="50%" height="50%" muted src='https://github.com/user-attachments/assets/5cc01165-f909-426c-8439-46cad1357181'></video>
 
 
 
