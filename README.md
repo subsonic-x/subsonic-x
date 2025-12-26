@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[](https://github.com/user-attachments/assets/d6f2f9bf-2f40-4d43-8077-8ac3ea433cd1)
+<video src='https://github.com/user-attachments/assets/5cc01165-f909-426c-8439-46cad1357181' width='20%'/>
+
+
 
 
 
