@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <video controls loop autoplay width="50%" height="50%" muted>
-  <source src="https://github.com/user-attachments/assets/5cc01165-f909-426c-8439-46cad1357181"/>
+  <video src="https://github.com/user-attachments/assets/5cc01165-f909-426c-8439-46cad1357181.mp4"></video>
 </video>
 
 
